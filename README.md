@@ -50,11 +50,3 @@ This project was inspired by **[Google 5-Day Gen AI Intensive Course on Kaggle](
 Some of the conversational structure, design ideas, and instructional comments were adapted and built upon from their **BaristaBot** notebook in Day 3: Building an Agent with LangGraph.
 
 Special thanks to the creators of that course for providing such a clear and accessible foundation to learn from.
-
----
-
-## 📍 Let’s begin...
-
-The strategist is ready to help you craft your next viral moment. Let’s make your content trend!
-
-This agent builds on that knowledge and reimagines it for a creative content generation use case, helping users craft powerful TikTok hooks through iterative coaching.
